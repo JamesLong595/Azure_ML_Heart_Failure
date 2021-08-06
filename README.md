@@ -1,2 +1,1 @@
-# Azure_ML_Heart_Failure
-Final Project for ISM6136 Data Mining at USF
+This was a group project for ISM6136 Data Mining at USF. Group members: James Long, Andres Zambrano, Samiksha Mhatre. The project began with selection and exploration of a public data set. This was followed by iterative algorithm selection, feature selection, and model evaluation. Azure Machine Learning Studio (classic) was the primary tool.
